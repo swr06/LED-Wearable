@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CJMCU_2812B_16")(type "KiCad")(uri "C:/Users/Sam/Documents/KiCad/9.0/footprints/CJMCU_2812B_16.pretty")(options "")(descr ""))
+)
